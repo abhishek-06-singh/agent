@@ -1,0 +1,290 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+
+}
+
+:root {
+  --color-primary: #131313;
+  --color-cardbg: #ffffff;
+  --color-iconbg: #090909;
+  --color-textwhite: #ffffff;
+  --color-background: #ffffff;
+  --color-secondary: #eeb887;
+  --color-secondary-alt: #737373;
+  --color-authback: #e5e7eb;
+  --color-progressbarbackground: #e5e5e5;
+  --color-textnormal: #333333;
+  --color-textheading: #131313;
+  --color-subheading: #333333;
+  --color-textplaceholder: #adaebc;
+  --color-lightgray: #fafafa;
+  --color-textcheckbox: #404040;
+  --color-buttontext: #ffffff;
+  --color-buttonbg: #131313;
+  --color-bordercolor: #e6e6e6;
+  --color-buttonhover: #e6a66e;
+  --color-important: #a3a3a3;
+  --color-verifiedbg: #6a6767;
+  --color-subtext: #404040;
+  --color-boxbg: #f5f5f5;
+  --color-cardHeading: #262626;
+  --color-iconcolor: #eeb887;
+  --color-footerbg: #e6e6e6;
+  --color-shadow: #e6e6e6;
+  --color-textblack: #000000;
+  --color-input: #ffffff;
+  --color-subcardbg: #ffffff;
+  --color-coral: #fae9da;
+  --color-corallighter:#fdf8f3 ;
+  --color-yellowborder: transparent;
+  --color-blackbg: #1f1f1f;
+  --color-iconborder:#8A8A8A;
+  --color-accentBg:#fafafa;
+  --color-bordersemicolor: transparent;
+}
+
+.dark {
+  --color-primary: #ffffff;
+  --color-cardbg: #282828;
+  --color-iconbg: #fae9da;
+  --color-textwhite: #ffffff;
+  --color-background: #1f1f1f;
+  --color-secondary: #d9a77b;
+  --color-secondary-alt: #a3a3a3;
+  --color-authback: #1f2937;
+  --color-progressbarbackground: #374151;
+  --color-textnormal: #e6e6e6;
+  --color-textheading: #ffffff;
+  --color-subheading: #e6e6e6;
+  --color-buttonbg: #eeb887;
+  --color-textplaceholder: #9ca3af;
+  --color-lightgray: #1f1f1f;
+  --color-textcheckbox: #d1d5db;
+  --color-buttontext: #131313;
+  --color-bordercolor: #4d4d4d;
+  --color-buttonhover: #d9985f;
+  --color-important: #737373;
+  --color-verifiedbg: #9ca3af;
+  --color-subtext: #d1d5db;
+  --color-boxbg: #262626;
+  --color-cardHeading: #f3f4f6;
+  --color-iconcolor: #000000;
+  --color-footerbg: #1f2937;
+  --color-shadow: #fdf8f36c;
+  --color-textblack: #000000;
+  --color-input: #3d3d3d;
+  --color-subcardbg: #4d4d4d;
+  --color-yellowborder: #f9a114;
+  --color-coral: var(--color-cardbg);
+  --color-corallighter: var(--color-cardbg);
+  --color-blackbg: transparent;
+  --color-iconborder:#FFFFFF;
+  --color-accentBg:transparent;
+  --color-bordersemicolor:var(--color-bordercolor);
+
+
+
+}
+
+/* Global Ant Design font override */
+.ant-typography,
+.ant-btn,
+.ant-input,
+.ant-input-affix-wrapper,
+.ant-input-password,
+.ant-input-search,
+.ant-input-number,
+.ant-textarea,
+.ant-select,
+.ant-select-selector,
+.ant-checkbox,
+.ant-radio,
+.ant-switch,
+.ant-slider,
+.ant-rate,
+.ant-picker,
+.ant-upload,
+.ant-modal,
+.ant-modal *,
+.ant-drawer,
+.ant-drawer *,
+.ant-form,
+.ant-form-item,
+.ant-form-item-label,
+.ant-form-item-control,
+.ant-card,
+.ant-card *,
+.ant-table,
+.ant-table *,
+.ant-collapse,
+.ant-collapse *,
+.ant-tabs,
+.ant-tabs *,
+.ant-dropdown,
+.ant-dropdown *,
+.ant-tooltip,
+.ant-tooltip *,
+.ant-message,
+.ant-message *,
+.ant-popover,
+.ant-popover *,
+.ant-pagination,
+.ant-pagination * {
+  font-family: var(--font-montserrat), sans-serif !important;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@font-face {
+  font-family: 'Glancyr';
+  src: url('/fonts/glancyr/ttf/glancyr-glancyr-regular-400.ttf')
+    format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+body {
+  color: rgb(var(--foreground-rgb));
+  background:
+    linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb))),
+    rgb(var(--background-start-rgb));
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
+.react-tel-input .form-control {
+  border: none;
+  outline: none;
+  font-size: 14px;
+  color: #000;
+  height: auto;
+  background-color: white;
+  padding-left: 60px !important; /* Space for flag */
+}
+
+.react-tel-input .flag-dropdown {
+  background: white;
+  border-right: 1px solid #d1d5db !important; /* Tailwind's border-gray-300 */
+  border-radius: 12px 0 0 12px;
+}
+
+.react-tel-input .selected-flag {
+  padding: 0 10px;
+}
+
+.react-tel-input .country-list {
+  color: black;
+  font-size: 14px;
+}
+/* Hide scrollbar by default */
+.scrollbar-hide {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
+}
+
+/* Show scrollbar on hover */
+.scrollbar-show:hover {
+  scrollbar-width: thin;
+}
+.scrollbar-show:hover::-webkit-scrollbar {
+  display: block;
+  width: 6px;
+}
+.scrollbar-show:hover::-webkit-scrollbar-thumb {
+  background: #a1a1aa; /* Tailwind gray-400 */
+  border-radius: 9999px;
+}
+.ant-modal-content {
+  padding: 0px !important ;
+  margin: 0px !important;
+  background: transparent !important;
+}
+.ant-card {
+  background: transparent !important;
+  border: 1px solid var(--color-bordercolor) !important; /* optional if you want no border */
+  box-shadow: none !important; /* optional if you want no shadow */
+  
+}
+
+.ant-card-body {
+  background: transparent !important;
+  padding: 0px !important;
+}
+.ant-modal-mask {
+  backdrop-filter: blur(6px);
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+.ant-modal h1 {
+  font-weight: 600;
+}
+.no-label-margin .ant-form-item-label {
+  margin-bottom: 2px !important;  /* default ~8px */
+  padding: 0 !important;
+}
+.no-label-marginbottom  {
+  margin-bottom: 2px !important;  /* default ~8px */
+  padding: 0 !important;
+}
+
+/* reduce bottom margin of Form.Item */
+.no-label-margin {
+  margin-bottom: 12px !important; /* default ~24px */
+}
+.update-commission-form .ant-input,
+.update-commission-form .ant-input-textarea,
+.update-commission-form .ant-select-selector,
+.update-commission-form .ant-picker,
+.update-commission-form .ant-picker-input input {
+  background: var(--color-shadow) !important;
+}
+/* Hide default scrollbar but allow scrolling */
+::-webkit-scrollbar {
+  width: 6px; /* thin scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* or use a subtle color */
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #d6d6d6, #fffdfa);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #e7e6e5;
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #d8d7d5 transparent;
+}

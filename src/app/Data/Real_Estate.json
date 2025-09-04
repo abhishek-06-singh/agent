@@ -1,0 +1,4504 @@
+[
+  {
+    "id": "1",
+    "title": "City View Apartment",
+    "address": "123 Oak Street",
+    "city": "Austin, TX",
+    "price": 1074440,
+    "rent": null,
+    "propertyType": "Studio",
+    "status": "sale",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "areaSqFt": 3048,
+    "agent": "Tom Hardy",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+    "description": "City View Apartment in the vibrant city of Austin, TX offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This studio provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "City Mall",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      }
+    ],
+    "documents": [
+      "Utility Bills",
+      "Property Tax Receipt",
+      "Inspection Report"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6916",
+      "email": "tom.hardy@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "2",
+    "title": "Lakeview Retreat",
+    "address": "89 Maple Dr",
+    "city": "Orlando, FL",
+    "price": null,
+    "rent": 1732,
+    "propertyType": "Studio",
+    "status": "rent",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqFt": 1220,
+    "agent": "Jake Owen",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1686090449192-4ab1d00cb735?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvcGVydHl8ZW58MHx8MHx8fDA%3D",
+    "description": "Lakeview Retreat in the vibrant city of Orlando, FL offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This studio provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "City Mall",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Sales Deed",
+      "Rental Agreement",
+      "Occupancy Certificate"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-5297",
+      "email": "jake.owen@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "3",
+    "title": "Sky Penthouse",
+    "address": "201 Fairway Ln",
+    "city": "Scottsdale, AZ",
+    "price": 1353634,
+    "rent": null,
+    "propertyType": "Cabin",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "areaSqFt": 644,
+    "agent": "Anna Smith",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/5.jpg",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvcGVydHl8ZW58MHx8MHx8fDA%3D",
+    "description": "Sky Penthouse in the vibrant city of Scottsdale, AZ offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This cabin provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Inspection Report",
+      "Maintenance Bill",
+      "Occupancy Certificate",
+      "Rental Agreement"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-3755",
+      "email": "anna.smith@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "4",
+    "title": "Ocean Condo",
+    "address": "550 Ocean Blvd",
+    "city": "Santa Monica, CA",
+    "price": null,
+    "rent": 1459,
+    "propertyType": "Villa",
+    "status": "rent",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 3173,
+    "agent": "Carlos Vega",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvcGVydHl8ZW58MHx8MHx8fDA%3D",
+    "description": "Ocean Condo in the vibrant city of Santa Monica, CA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This villa provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      }
+    ],
+    "documents": [
+      "Occupancy Certificate",
+      "Legal Docs",
+      "Sales Deed",
+      "Inspection Report"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-2588",
+      "email": "carlos.vega@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "5",
+    "title": "City View Apartment",
+    "address": "789 Beach Ave",
+    "city": "Miami, FL",
+    "price": null,
+    "rent": 3115,
+    "propertyType": "Loft",
+    "status": "rent",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 1531,
+    "agent": "Lina Rodriguez",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/9.jpg",
+    "image": "https://images.unsplash.com/photo-1483097365279-e8acd3bf9f18?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cHJvcGVydHl8ZW58MHx8MHx8fDA%3D",
+    "description": "City View Apartment in the vibrant city of Miami, FL offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This loft provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Greenfield High School",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      }
+    ],
+    "documents": [
+      "Legal Docs",
+      "Rental Agreement",
+      "Property Tax Receipt"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-1181",
+      "email": "lina.rodriguez@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "6",
+    "title": "Cozy Home",
+    "address": "654 Arts District",
+    "city": "Los Angeles, CA",
+    "price": 974316,
+    "rent": null,
+    "propertyType": "Duplex",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "areaSqFt": 4273,
+    "agent": "Sophia Green",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/11.jpg",
+    "image": "https://images.unsplash.com/photo-1522050212171-61b01dd24579?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Cozy Home in the vibrant city of Los Angeles, CA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This duplex provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      }
+    ],
+    "documents": [
+      "Inspection Report",
+      "Occupancy Certificate",
+      "Sales Deed",
+      "Maintenance Bill"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-8056",
+      "email": "sophia.green@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "7",
+    "title": "Sky Penthouse",
+    "address": "550 Ocean Blvd",
+    "city": "Santa Monica, CA",
+    "price": null,
+    "rent": 2022,
+    "propertyType": "Duplex",
+    "status": "rent",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "areaSqFt": 4476,
+    "agent": "Olivia James",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/13.jpg",
+    "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Sky Penthouse in the vibrant city of Santa Monica, CA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This duplex provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Maintenance Bill",
+      "Legal Docs"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-7645",
+      "email": "olivia.james@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "8",
+    "title": "Lakeview Retreat",
+    "address": "45 Green Hill Rd",
+    "city": "Portland, OR",
+    "price": 582427,
+    "rent": null,
+    "propertyType": "Condo",
+    "status": "sale",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "areaSqFt": 4064,
+    "agent": "Carlos Vega",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "image": "https://images.unsplash.com/photo-1498373419901-52eba931dc4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Lakeview Retreat in the vibrant city of Portland, OR offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This condo provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      }
+    ],
+    "documents": [
+      "Sales Deed",
+      "Maintenance Bill",
+      "Inspection Report",
+      "Occupancy Certificate"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6594",
+      "email": "carlos.vega@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "9",
+    "title": "Lakeview Retreat",
+    "address": "15 Farm Lane",
+    "city": "Nashville, TN",
+    "price": null,
+    "rent": 3095,
+    "propertyType": "Duplex",
+    "status": "rent",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 1091,
+    "agent": "Emma Watson",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/15.jpg",
+    "image": "https://images.unsplash.com/photo-1472224371017-08207f84aaae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Lakeview Retreat in the vibrant city of Nashville, TN offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This duplex provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Maintenance Bill",
+      "Rental Agreement",
+      "Utility Bills"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6002",
+      "email": "emma.watson@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "10",
+    "title": "Studio Loft",
+    "address": "73 Elm St",
+    "city": "Phoenix, AZ",
+    "price": null,
+    "rent": 3747,
+    "propertyType": "Apartment",
+    "status": "rent",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "areaSqFt": 2610,
+    "agent": "Ava Patel",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/17.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1689609950112-d66095626efb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Studio Loft in the vibrant city of Phoenix, AZ offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      }
+    ],
+    "documents": [
+      "Occupancy Certificate",
+      "Property Tax Receipt"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-8461",
+      "email": "ava.patel@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "11",
+    "title": "City View Apartment",
+    "address": "654 Arts District",
+    "city": "Los Angeles, CA",
+    "price": 1777472,
+    "rent": null,
+    "propertyType": "Apartment",
+    "status": "sale",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 2037,
+    "agent": "Robert Taylor",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/19.jpg",
+    "image": "https://images.unsplash.com/photo-1608429835892-30be51ea4d6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "City View Apartment in the vibrant city of Los Angeles, CA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 1 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "City Mall",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Rental Agreement"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-8899",
+      "email": "robert.taylor@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "12",
+    "title": "City View Apartment",
+    "address": "550 Ocean Blvd",
+    "city": "Santa Monica, CA",
+    "price": 1668678,
+    "rent": null,
+    "propertyType": "House",
+    "status": "sale",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "areaSqFt": 2147,
+    "agent": "Nathan Lee",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/21.jpg",
+    "image": "https://images.unsplash.com/photo-1648840887119-a9d33c964054?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "City View Apartment in the vibrant city of Santa Monica, CA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This house provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      }
+    ],
+    "documents": [
+      "Sales Deed",
+      "Occupancy Certificate",
+      "Utility Bills"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-4774",
+      "email": "nathan.lee@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "13",
+    "title": "Suburban Duplex",
+    "address": "900 Shoreline Dr",
+    "city": "San Diego, CA",
+    "price": 1147607,
+    "rent": null,
+    "propertyType": "Penthouse",
+    "status": "sale",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "areaSqFt": 1984,
+    "agent": "Tom Hardy",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1687960116506-f31f84371838?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Suburban Duplex in the vibrant city of San Diego, CA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This penthouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      }
+    ],
+    "documents": [
+      "Utility Bills",
+      "Occupancy Certificate",
+      "Maintenance Bill",
+      "Legal Docs"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-1637",
+      "email": "tom.hardy@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "14",
+    "title": "Cozy Home",
+    "address": "305 West Ave",
+    "city": "Atlanta, GA",
+    "price": null,
+    "rent": 2679,
+    "propertyType": "Penthouse",
+    "status": "rent",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "areaSqFt": 1773,
+    "agent": "Robert Taylor",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/19.jpg",
+    "image": "https://images.unsplash.com/photo-1723110994499-df46435aa4b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Cozy Home in the vibrant city of Atlanta, GA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This penthouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Legal Docs",
+      "Occupancy Certificate",
+      "Utility Bills"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-9715",
+      "email": "robert.taylor@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "15",
+    "title": "Golf Villa",
+    "address": "321 Pine St",
+    "city": "Denver, CO",
+    "price": 647456,
+    "rent": null,
+    "propertyType": "Penthouse",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "areaSqFt": 2022,
+    "agent": "Olivia James",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/22.jpg",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Golf Villa in the vibrant city of Denver, CO offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This penthouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Maintenance Bill",
+      "Sales Deed"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-4376",
+      "email": "olivia.james@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "16",
+    "title": "Modern Family Home",
+    "address": "789 Beach Ave",
+    "city": "Miami, FL",
+    "price": 1323175,
+    "rent": null,
+    "propertyType": "Townhouse",
+    "status": "sale",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqFt": 3268,
+    "agent": "Ava Patel",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/24.jpg",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Modern Family Home in the vibrant city of Miami, FL offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This townhouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Greenfield High School",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Inspection Report",
+      "Utility Bills"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-4741",
+      "email": "ava.patel@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "17",
+    "title": "Beach Studio",
+    "address": "789 Beach Ave",
+    "city": "Miami, FL",
+    "price": 752052,
+    "rent": null,
+    "propertyType": "Duplex",
+    "status": "sale",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "areaSqFt": 2378,
+    "agent": "Anna Smith",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/26.jpg",
+    "image": "https://images.unsplash.com/photo-1676500684456-99f21e42a6fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Beach Studio in the vibrant city of Miami, FL offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This duplex provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Greenfield High School",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Occupancy Certificate",
+      "Sales Deed",
+      "Maintenance Bill"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-9360",
+      "email": "anna.smith@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "18",
+    "title": "Cozy Home",
+    "address": "201 Fairway Ln",
+    "city": "Scottsdale, AZ",
+    "price": null,
+    "rent": 3263,
+    "propertyType": "Apartment",
+    "status": "rent",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "areaSqFt": 3735,
+    "agent": "Grace Liu",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/28.jpg",
+    "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Cozy Home in the vibrant city of Scottsdale, AZ offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Occupancy Certificate"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-9514",
+      "email": "grace.liu@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "19",
+    "title": "Suburban Duplex",
+    "address": "88 Skyscraper Rd",
+    "city": "Chicago, IL",
+    "price": null,
+    "rent": 2402,
+    "propertyType": "Duplex",
+    "status": "rent",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "areaSqFt": 4377,
+    "agent": "Rachel Moore",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/30.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1687960117014-f6463f5b419a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTd8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Suburban Duplex in the vibrant city of Chicago, IL offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This duplex provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 1 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      }
+    ],
+    "documents": [
+      "Sales Deed",
+      "Maintenance Bill",
+      "Property Tax Receipt",
+      "Rental Agreement"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-5922",
+      "email": "rachel.moore@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "20",
+    "title": "Modern Family Home",
+    "address": "45 Green Hill Rd",
+    "city": "Portland, OR",
+    "price": null,
+    "rent": 1986,
+    "propertyType": "Villa",
+    "status": "rent",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "areaSqFt": 4628,
+    "agent": "Liam Carter",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/32.jpg",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Modern Family Home in the vibrant city of Portland, OR offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This villa provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Greenfield High School",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Inspection Report",
+      "Rental Agreement",
+      "Occupancy Certificate"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-1454",
+      "email": "liam.carter@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "21",
+    "title": "Luxury Villa",
+    "address": "765 Lake Dr",
+    "city": "Minneapolis, MN",
+    "price": null,
+    "rent": 3231,
+    "propertyType": "Condo",
+    "status": "rent",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "areaSqFt": 1918,
+    "agent": "Lina Rodriguez",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/51.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1686090450479-370d5ddf4de1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Luxury Villa in the vibrant city of Minneapolis, MN offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This condo provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      }
+    ],
+    "documents": [
+      "Utility Bills",
+      "Property Tax Receipt",
+      "Rental Agreement"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-9242",
+      "email": "lina.rodriguez@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "22",
+    "title": "Loft Space",
+    "address": "789 Ridge Rd",
+    "city": "Aspen, CO",
+    "price": 1207996,
+    "rent": null,
+    "propertyType": "Apartment",
+    "status": "sale",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 4747,
+    "agent": "Olivia James",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/52.jpg",
+    "image": "https://images.unsplash.com/photo-1668911494509-14baf3b42fda?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODZ8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Loft Space in the vibrant city of Aspen, CO offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      }
+    ],
+    "documents": [
+      "Rental Agreement",
+      "Property Tax Receipt",
+      "Occupancy Certificate",
+      "Legal Docs"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6675",
+      "email": "olivia.james@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "23",
+    "title": "Mountain Cabin",
+    "address": "73 Elm St",
+    "city": "Phoenix, AZ",
+    "price": null,
+    "rent": 2617,
+    "propertyType": "Villa",
+    "status": "rent",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "areaSqFt": 716,
+    "agent": "Robert Taylor",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/53.jpg",
+    "image": "https://images.unsplash.com/photo-1512359953714-f0c9a632ab85?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Mountain Cabin in the vibrant city of Phoenix, AZ offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This villa provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      }
+    ],
+    "documents": [
+      "Utility Bills",
+      "Rental Agreement",
+      "Maintenance Bill"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6082",
+      "email": "robert.taylor@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "24",
+    "title": "Beach Studio",
+    "address": "987 Heritage Ave",
+    "city": "Boston, MA",
+    "price": null,
+    "rent": 2858,
+    "propertyType": "Villa",
+    "status": "rent",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "areaSqFt": 4832,
+    "agent": "Grace Liu",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/54.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1733514433449-67ea470bcfa6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTd8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Beach Studio in the vibrant city of Boston, MA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This villa provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Rental Agreement",
+      "Occupancy Certificate",
+      "Property Tax Receipt",
+      "Sales Deed"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-3435",
+      "email": "grace.liu@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "25",
+    "title": "Eco Home",
+    "address": "987 Heritage Ave",
+    "city": "Boston, MA",
+    "price": 1902919,
+    "rent": null,
+    "propertyType": "Penthouse",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "areaSqFt": 2043,
+    "agent": "Lina Rodriguez",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/51.jpg",
+    "image": "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTh8fHByb3BlcnR5fGVufDB8fDB8fHww",
+    "description": "Eco Home in the vibrant city of Boston, MA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This penthouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Rental Agreement",
+      "Sales Deed",
+      "Legal Docs"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-7529",
+      "email": "lina.rodriguez@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "26",
+    "title": "Beach Studio",
+    "address": "321 Pine St",
+    "city": "Denver, CO",
+    "price": null,
+    "rent": 2595,
+    "propertyType": "Condo",
+    "status": "rent",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "areaSqFt": 4990,
+    "agent": "Anna Smith",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/55.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1687960114927-fa6bac0a63a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAxfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Beach Studio in the vibrant city of Denver, CO offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This condo provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Greenfield High School",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Inspection Report",
+      "Sales Deed"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-1963",
+      "email": "anna.smith@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "27",
+    "title": "Beach Studio",
+    "address": "654 Arts District",
+    "city": "Los Angeles, CA",
+    "price": null,
+    "rent": 3291,
+    "propertyType": "Cabin",
+    "status": "rent",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "areaSqFt": 4019,
+    "agent": "David Kim",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/56.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1746387628298-af5695a3f935?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Beach Studio in the vibrant city of Los Angeles, CA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This cabin provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      }
+    ],
+    "documents": [
+      "Utility Bills",
+      "Inspection Report",
+      "Maintenance Bill"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6716",
+      "email": "david.kim@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "28",
+    "title": "Luxury Villa",
+    "address": "765 Lake Dr",
+    "city": "Minneapolis, MN",
+    "price": 224167,
+    "rent": null,
+    "propertyType": "Condo",
+    "status": "sale",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "areaSqFt": 1384,
+    "agent": "Ava Patel",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/57.jpg",
+    "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA0fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Luxury Villa in the vibrant city of Minneapolis, MN offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This condo provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Utility Bills",
+      "Sales Deed",
+      "Legal Docs"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-1945",
+      "email": "ava.patel@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "29",
+    "title": "Downtown Apartment",
+    "address": "17 Canal St",
+    "city": "Philadelphia, PA",
+    "price": 1559907,
+    "rent": null,
+    "propertyType": "Cabin",
+    "status": "sale",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "areaSqFt": 4730,
+    "agent": "Henry Clark",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/58.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1746387628298-af5695a3f935?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Downtown Apartment in the vibrant city of Philadelphia, PA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This cabin provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Occupancy Certificate",
+      "Maintenance Bill",
+      "Sales Deed"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-5728",
+      "email": "henry.clark@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "30",
+    "title": "Studio Loft",
+    "address": "45 Green Hill Rd",
+    "city": "Portland, OR",
+    "price": null,
+    "rent": 2866,
+    "propertyType": "Apartment",
+    "status": "rent",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "areaSqFt": 2348,
+    "agent": "Nathan Lee",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/59.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1748283985954-c611c2b25b3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIxfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Studio Loft in the vibrant city of Portland, OR offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      }
+    ],
+    "documents": [
+      "Occupancy Certificate",
+      "Utility Bills",
+      "Rental Agreement",
+      "Maintenance Bill"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-8287",
+      "email": "nathan.lee@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "31",
+    "title": "Downtown Apartment",
+    "address": "45 Green Hill Rd",
+    "city": "Portland, OR",
+    "price": 1385220,
+    "rent": null,
+    "propertyType": "Penthouse",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "areaSqFt": 2336,
+    "agent": "Liam Carter",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/60.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1748406880127-ece0f3119976?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI4fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Downtown Apartment in the vibrant city of Portland, OR offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This penthouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Sales Deed",
+      "Rental Agreement"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-9937",
+      "email": "liam.carter@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "32",
+    "title": "Beach Studio",
+    "address": "789 Ridge Rd",
+    "city": "Aspen, CO",
+    "price": null,
+    "rent": 2035,
+    "propertyType": "Loft",
+    "status": "rent",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "areaSqFt": 1893,
+    "agent": "Grace Liu",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/54.jpg",
+    "image": "https://images.unsplash.com/photo-1635108199395-8cd24af60af1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI5fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Beach Studio in the vibrant city of Aspen, CO offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This loft provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 1 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Occupancy Certificate"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-4541",
+      "email": "grace.liu@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "33",
+    "title": "Luxury Villa",
+    "address": "305 West Ave",
+    "city": "Atlanta, GA",
+    "price": 304208,
+    "rent": null,
+    "propertyType": "Studio",
+    "status": "sale",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "areaSqFt": 2253,
+    "agent": "Emma Watson",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/61.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1748406880162-17713096fade?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMyfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Luxury Villa in the vibrant city of Atlanta, GA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This studio provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      }
+    ],
+    "documents": [
+      "Inspection Report",
+      "Maintenance Bill",
+      "Sales Deed"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-3754",
+      "email": "emma.watson@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "34",
+    "title": "Lakeview Retreat",
+    "address": "310 Sunset Blvd",
+    "city": "Las Vegas, NV",
+    "price": null,
+    "rent": 1956,
+    "propertyType": "Penthouse",
+    "status": "rent",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 4849,
+    "agent": "Rachel Moore",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/62.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1748406880317-c1eb306145cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQwfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Lakeview Retreat in the vibrant city of Las Vegas, NV offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This penthouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      }
+    ],
+    "documents": [
+      "Utility Bills",
+      "Legal Docs"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-9792",
+      "email": "rachel.moore@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "35",
+    "title": "Suburban Duplex",
+    "address": "445 Main St",
+    "city": "Seattle, WA",
+    "price": 1804909,
+    "rent": null,
+    "propertyType": "Villa",
+    "status": "sale",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqFt": 1477,
+    "agent": "David Kim",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/63.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1748729621135-57a3168c9fbd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ0fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Suburban Duplex in the vibrant city of Seattle, WA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This villa provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Legal Docs",
+      "Property Tax Receipt",
+      "Utility Bills"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6973",
+      "email": "david.kim@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "36",
+    "title": "Historic House",
+    "address": "123 Oak Street",
+    "city": "Austin, TX",
+    "price": null,
+    "rent": 1021,
+    "propertyType": "Apartment",
+    "status": "rent",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "areaSqFt": 3328,
+    "agent": "Sophia Green",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/64.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1748283940309-8e68a0ef23d2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUyfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Historic House in the vibrant city of Austin, TX offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      }
+    ],
+    "documents": [
+      "Rental Agreement",
+      "Property Tax Receipt",
+      "Occupancy Certificate",
+      "Utility Bills"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-4121",
+      "email": "sophia.green@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "37",
+    "title": "Luxury Villa",
+    "address": "17 Canal St",
+    "city": "Philadelphia, PA",
+    "price": 194042,
+    "rent": null,
+    "propertyType": "Townhouse",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "areaSqFt": 3847,
+    "agent": "Liam Carter",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/65.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1734549548034-d487c2da6980?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU2fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Luxury Villa in the vibrant city of Philadelphia, PA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This townhouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      }
+    ],
+    "documents": [
+      "Utility Bills",
+      "Legal Docs",
+      "Rental Agreement"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-3722",
+      "email": "liam.carter@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "38",
+    "title": "Modern Family Home",
+    "address": "321 Pine St",
+    "city": "Denver, CO",
+    "price": null,
+    "rent": 1894,
+    "propertyType": "Townhouse",
+    "status": "rent",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "areaSqFt": 4927,
+    "agent": "Henry Clark",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/66.jpg",
+    "image": "https://images.unsplash.com/photo-1635108199445-ab9f516646e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYxfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Modern Family Home in the vibrant city of Denver, CO offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This townhouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Occupancy Certificate",
+      "Legal Docs"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-5007",
+      "email": "henry.clark@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "39",
+    "title": "Beach Studio",
+    "address": "88 Skyscraper Rd",
+    "city": "Chicago, IL",
+    "price": 428910,
+    "rent": null,
+    "propertyType": "Condo",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "areaSqFt": 1948,
+    "agent": "Carlos Vega",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/67.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1734549547997-f232e38636d9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYwfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Beach Studio in the vibrant city of Chicago, IL offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This condo provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Utility Bills",
+      "Sales Deed"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-4747",
+      "email": "carlos.vega@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "40",
+    "title": "Cozy Home",
+    "address": "789 Ridge Rd",
+    "city": "Aspen, CO",
+    "price": null,
+    "rent": 2498,
+    "propertyType": "Apartment",
+    "status": "rent",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "areaSqFt": 1498,
+    "agent": "Leah Young",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/68.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1734549547989-805c0885dd9c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY4fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Cozy Home in the vibrant city of Aspen, CO offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 1 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Maintenance Bill",
+      "Occupancy Certificate"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-2876",
+      "email": "leah.young@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "41",
+    "title": "Downtown Apartment",
+    "address": "121 King Blvd",
+    "city": "New York, NY",
+    "price": 1046412,
+    "rent": null,
+    "propertyType": "Penthouse",
+    "status": "sale",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "areaSqFt": 1345,
+    "agent": "Sophia Green",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/64.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1661915661139-5b6a4e4a6fcc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg0fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Downtown Apartment in the vibrant city of New York, NY offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This penthouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 1 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Inspection Report",
+      "Occupancy Certificate"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-9980",
+      "email": "sophia.green@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "42",
+    "title": "Modern Family Home",
+    "address": "445 Main St",
+    "city": "Seattle, WA",
+    "price": 165875,
+    "rent": null,
+    "propertyType": "Loft",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "areaSqFt": 4009,
+    "agent": "Liam Carter",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/65.jpg",
+    "image": "https://images.unsplash.com/photo-1744311910834-7be44b6f7c98?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTgyfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Modern Family Home in the vibrant city of Seattle, WA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This loft provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      }
+    ],
+    "documents": [
+      "Maintenance Bill",
+      "Utility Bills",
+      "Legal Docs",
+      "Rental Agreement"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6767",
+      "email": "liam.carter@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "43",
+    "title": "Suburban Duplex",
+    "address": "201 Fairway Ln",
+    "city": "Scottsdale, AZ",
+    "price": null,
+    "rent": 2301,
+    "propertyType": "Apartment",
+    "status": "rent",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "areaSqFt": 3127,
+    "agent": "David Kim",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/63.jpg",
+    "image": "https://images.unsplash.com/photo-1744311971549-9c529b60b98a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg3fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Suburban Duplex in the vibrant city of Scottsdale, AZ offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 1 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Dog Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Occupancy Certificate",
+      "Maintenance Bill"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-9094",
+      "email": "david.kim@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "44",
+    "title": "Eco Home",
+    "address": "445 Main St",
+    "city": "Seattle, WA",
+    "price": null,
+    "rent": 1941,
+    "propertyType": "Villa",
+    "status": "rent",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "areaSqFt": 4645,
+    "agent": "Lina Rodriguez",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/69.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1746928213338-996c52a9aa5f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTk2fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Eco Home in the vibrant city of Seattle, WA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This villa provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      }
+    ],
+    "documents": [
+      "Rental Agreement",
+      "Property Tax Receipt",
+      "Maintenance Bill",
+      "Occupancy Certificate"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-1234",
+      "email": "lina.rodriguez@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "45",
+    "title": "Eco Home",
+    "address": "987 Heritage Ave",
+    "city": "Boston, MA",
+    "price": 292795,
+    "rent": null,
+    "propertyType": "Townhouse",
+    "status": "sale",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 630,
+    "agent": "Robert Taylor",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/70.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1687960116696-d1e38565140f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA0fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Eco Home in the vibrant city of Boston, MA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This townhouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 4 well-appointed bedrooms and 4 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "City Mall",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Inspection Report"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-7068",
+      "email": "robert.taylor@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "46",
+    "title": "Golf Villa",
+    "address": "17 Canal St",
+    "city": "Philadelphia, PA",
+    "price": null,
+    "rent": 1820,
+    "propertyType": "House",
+    "status": "rent",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "areaSqFt": 4665,
+    "agent": "Jake Owen",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/71.jpg",
+    "image": "https://images.unsplash.com/photo-1702971274208-3ddc0ed49936?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjIzfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Golf Villa in the vibrant city of Philadelphia, PA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This house provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "No"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Cafe Street",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      }
+    ],
+    "documents": [
+      "Legal Docs",
+      "Utility Bills",
+      "Property Tax Receipt",
+      "Inspection Report"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-8738",
+      "email": "jake.owen@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "47",
+    "title": "Luxury Villa",
+    "address": "201 Fairway Ln",
+    "city": "Scottsdale, AZ",
+    "price": 1294794,
+    "rent": null,
+    "propertyType": "Villa",
+    "status": "sale",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "areaSqFt": 2163,
+    "agent": "Lina Rodriguez",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/69.jpg",
+    "image": "https://images.unsplash.com/photo-1635108201747-976f7d4ba453?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjM0fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Luxury Villa in the vibrant city of Scottsdale, AZ offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This villa provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 5 well-appointed bedrooms and 2 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "2 Spaces"
+      },
+      {
+        "Pool": "Yes"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "Yes"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      }
+    ],
+    "documents": [
+      "Occupancy Certificate",
+      "Maintenance Bill",
+      "Inspection Report"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-8225",
+      "email": "lina.rodriguez@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "48",
+    "title": "Country Home",
+    "address": "765 Lake Dr",
+    "city": "Minneapolis, MN",
+    "price": null,
+    "rent": 2330,
+    "propertyType": "Townhouse",
+    "status": "rent",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "areaSqFt": 4001,
+    "agent": "Emma Watson",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/72.jpg",
+    "image": "https://images.unsplash.com/photo-1635108200313-40f75b86bc94?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjU4fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Country Home in the vibrant city of Minneapolis, MN offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This townhouse provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 3 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "No"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Semi"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Fire Station",
+        "distance": "0.6 mi",
+        "time": "7 min walk"
+      },
+      {
+        "name": "City Hospital",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      },
+      {
+        "name": "City Mall",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      }
+    ],
+    "documents": [
+      "Property Tax Receipt",
+      "Rental Agreement",
+      "Sales Deed",
+      "Legal Docs"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-4812",
+      "email": "emma.watson@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "49",
+    "title": "Historic House",
+    "address": "305 West Ave",
+    "city": "Atlanta, GA",
+    "price": null,
+    "rent": 3587,
+    "propertyType": "Apartment",
+    "status": "rent",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "areaSqFt": 1908,
+    "agent": "Emma Watson",
+    "agentAvatar": "https://randomuser.me/api/portraits/women/73.jpg",
+    "image": "https://images.unsplash.com/photo-1635108201207-2e124715c959?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjYxfHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Historic House in the vibrant city of Atlanta, GA offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This apartment provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 2 well-appointed bedrooms and 1 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "1 Space"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "No"
+      },
+      {
+        "Gated Community": "No"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "No"
+      },
+      {
+        "Garden/Yard": "Yes"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "Yes"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Library",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Pharmacy",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Police Station",
+        "distance": "1.0 mi",
+        "time": "12 min walk"
+      },
+      {
+        "name": "Greenfield High School",
+        "distance": "0.7 mi",
+        "time": "8 min walk"
+      },
+      {
+        "name": "Metro Station",
+        "distance": "0.3 mi",
+        "time": "3 min walk"
+      }
+    ],
+    "documents": [
+      "Rental Agreement",
+      "Occupancy Certificate",
+      "Inspection Report"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-6640",
+      "email": "emma.watson@realestate.com"
+    },
+    "agentType": "agent"
+  },
+  {
+    "id": "50",
+    "title": "Suburban Villa",
+    "address": "321 Pine St",
+    "city": "Denver, CO",
+    "price": 1495067,
+    "rent": null,
+    "propertyType": "Loft",
+    "status": "sale",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "areaSqFt": 4226,
+    "agent": "Carlos Vega",
+    "agentAvatar": "https://randomuser.me/api/portraits/men/74.jpg",
+    "image": "https://images.unsplash.com/photo-1717479244031-7c353c4b5204?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjY5fHxwcm9wZXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Suburban Villa in the vibrant city of Denver, CO offers an exceptional living experience for those seeking the perfect balance between modern convenience and timeless charm. This loft provides a spacious and inviting layout, thoughtfully designed to meet the needs of today's families, professionals, and retirees alike. With 1 well-appointed bedrooms and 3 bathrooms, it ensures comfort and privacy for every member of the household.\n\nEvery detail of this property has been crafted to enhance your lifestyle, from the premium flooring and energy-efficient lighting to the large windows that flood each room with natural light. The surrounding neighborhood is rich in amenities, offering a variety of dining, shopping, and entertainment options within minutes. Whether you enjoy quiet mornings on your private balcony or hosting friends in the open-plan living space, this home adapts to your pace.\n\nBeyond the interiors, residents benefit from community facilities and well-maintained green spaces that encourage a healthy and social lifestyle. Excellent transport links make commuting effortless, while the peaceful surroundings provide a welcome retreat after a busy day. This is more than just a home\u2014it\u2019s a place where you can create lasting memories and truly belong.",
+    "keyFeatures": [
+      {
+        "Parking Spaces": "3 Spaces"
+      },
+      {
+        "Pool": "No"
+      },
+      {
+        "Air Conditioning": "Yes"
+      },
+      {
+        "Gated Community": "Yes"
+      },
+      {
+        "Laundry Room": "Yes"
+      },
+      {
+        "Walk-in Closet": "Yes"
+      },
+      {
+        "Garden/Yard": "No"
+      },
+      {
+        "Internet Ready": "No"
+      },
+      {
+        "Fireplace": "No"
+      },
+      {
+        "Furnished": "Fully"
+      }
+    ],
+    "nearbyFacilities": [
+      {
+        "name": "Sports Complex",
+        "distance": "0.9 mi",
+        "time": "10 min walk"
+      },
+      {
+        "name": "Grocery Store",
+        "distance": "0.5 mi",
+        "time": "5 min walk"
+      },
+      {
+        "name": "Central Park",
+        "distance": "0.4 mi",
+        "time": "4 min walk"
+      },
+      {
+        "name": "Bus Stop",
+        "distance": "0.2 mi",
+        "time": "2 min walk"
+      },
+      {
+        "name": "Community Center",
+        "distance": "0.5 mi",
+        "time": "6 min walk"
+      }
+    ],
+    "documents": [
+      "Occupancy Certificate",
+      "Sales Deed",
+      "Rental Agreement",
+      "Inspection Report"
+    ],
+    "agentDetails": {
+      "phone": "+1-202-555-5767",
+      "email": "carlos.vega@realestate.com"
+    },
+    "agentType": "agent"
+  }
+]

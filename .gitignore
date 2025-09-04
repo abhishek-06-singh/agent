@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# dotenv environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+logs
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# build output
+dist/
+build/
+.next/
+out/
+coverage/
+
+# local serverless functions
+.netlify/
+.vercel/
+
+# typescript
+*.tsbuildinfo
+
+# misc
+*.tgz
+*.gz
+
+# Firebase
+.firebase/
+firestore.indexes.json
+firestore.rules
+firebase-debug.log
+storage.rules
+
+# GitHub Copilot and other tools
+copilot.*
