@@ -1,6 +1,6 @@
-"use client"
-import { Dropdown, Button } from "antd"
-import { MoreOutlined } from "@ant-design/icons"
+'use client'
+import { Dropdown, Button } from 'antd'
+import { MoreOutlined } from '@ant-design/icons'
 
 export default function MobileDealCard({ item, statusStyles, getMenu }) {
   return (
@@ -43,7 +43,9 @@ export default function MobileDealCard({ item, statusStyles, getMenu }) {
           />
           <div>
             <div>{item.subAgent.name}</div>
-            <div className="text-xs text-textplaceholder">{item.subAgent.role}</div>
+            <div className="text-xs text-textplaceholder">
+              {item.subAgent.role}
+            </div>
           </div>
         </div>
         <div className="flex items-center gap-2">
@@ -58,7 +60,11 @@ export default function MobileDealCard({ item, statusStyles, getMenu }) {
 
       {/* Actions */}
       <div className="flex justify-end">
-        <Dropdown overlay={getMenu(item)} trigger={['click']} placement="bottomRight">
+        <Dropdown
+          overlay={getMenu(item)}
+          trigger={['click']}
+          placement="bottomRight"
+        >
           <Button
             type="text"
             icon={<MoreOutlined className="text-textnormal" />}

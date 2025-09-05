@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react'
 import { Dropdown, Menu, Button } from 'antd'
 import { MoreOutlined } from '@ant-design/icons'
 import DesktopDealsTable from './DesktopDealsTable'
-import MobileDealCard from './MobileCardVIew'
+import MobileDealCard from './MobileDealCard'
 
 const deals = [
   {
@@ -12,7 +12,8 @@ const deals = [
     property: {
       name: 'Modern Family Home',
       priceRange: '$450,000 - $600,000',
-      image: 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=80',
+      image:
+        'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=80',
     },
     subAgent: {
       name: 'Michael Chen',
@@ -37,7 +38,8 @@ const deals = [
     property: {
       name: 'Modern Family Home',
       priceRange: '$450,000 - $600,000',
-      image: 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=80',
+      image:
+        'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=80',
     },
     subAgent: {
       name: 'Michael Chen',
@@ -108,32 +110,33 @@ export default function DealsTable() {
     <div className="mt-8">
       {/* Desktop / Tablet Table */}
       <div className="hidden md:block overflow-x-auto rounded-xl border border-bordercolor bg-cardbg shadow-md">
-  <DesktopDealsTable
-    currentItems={currentItems}
-    selected={selected}
-    allChecked={allChecked}
-    toggleSelectAll={toggleSelectAll}
-    toggleRow={toggleRow}
-    getMenu={getMenu}
-    statusStyles={statusStyles}
-  />
+        <DesktopDealsTable
+          currentItems={currentItems}
+          selected={selected}
+          allChecked={allChecked}
+          toggleSelectAll={toggleSelectAll}
+          toggleRow={toggleRow}
+          getMenu={getMenu}
+          statusStyles={statusStyles}
+        />
       </div>
 
- <div className="md:hidden flex flex-col gap-4">
-  {currentItems.map((item) => (
-    <MobileDealCard
-      key={item.id}
-      item={item}
-      statusStyles={statusStyles}
-      getMenu={getMenu}
-    />
-  ))}
-</div>
+      <div className="md:hidden flex flex-col gap-4">
+        {currentItems.map((item) => (
+          <MobileDealCard
+            key={item.id}
+            item={item}
+            statusStyles={statusStyles}
+            getMenu={getMenu}
+          />
+        ))}
+      </div>
 
       {/* Pagination */}
       <div className="flex flex-col sm:flex-row items-center justify-between my-10 text-sm text-textnormal gap-4 sm:gap-0">
         <p>
-          Showing {start + 1} to {Math.min(end, totalResults)} of {totalResults} results
+          Showing {start + 1} to {Math.min(end, totalResults)} of {totalResults}{' '}
+          results
         </p>
         <div className="flex flex-wrap items-center gap-2">
           <button

@@ -1,26 +1,26 @@
-'use client';
+'use client'
 
-import React, { useState } from 'react';
-import Image from 'next/image';
-import { Button } from 'antd';
-import { PaperClipOutlined } from '@ant-design/icons';
-import { Send } from 'lucide-react';
-import InviteModal from './InviteModal';
+import React, { useState } from 'react'
+import Image from 'next/image'
+import { Button } from 'antd'
+import { PaperClipOutlined } from '@ant-design/icons'
+import { Send } from 'lucide-react'
+import InviteModal from './InviteModal'
 
 const SubAgentChatWindow = ({ conversation }) => {
-  const [isInviteModalOpen, setIsInviteModalOpen] = useState(false);
+  const [isInviteModalOpen, setIsInviteModalOpen] = useState(false)
 
   if (!conversation) {
     return (
       <div className="w-full lg:w-2/3 flex items-center justify-center text-textnormal h-screen">
         Select a conversation
       </div>
-    );
+    )
   }
 
   const participants = conversation.extra
     ? conversation.name + ' ' + conversation.extra
-    : conversation.name;
+    : conversation.name
 
   return (
     <div className="w-full lg:w-2/3 flex flex-col h-screen bg-cardbg">
@@ -49,7 +49,9 @@ const SubAgentChatWindow = ({ conversation }) => {
           </div>
           <div>
             <h2 className="text-lg font-semibold text-textheading">
-              {conversation.isGroup ? 'Michael Chen & John Smith' : conversation.name}
+              {conversation.isGroup
+                ? 'Michael Chen & John Smith'
+                : conversation.name}
             </h2>
             <p className="text-sm text-textnormal">
               {conversation.agent}
@@ -73,7 +75,11 @@ const SubAgentChatWindow = ({ conversation }) => {
             <div key={index} className="max-w-[70%]">
               <div className="flex items-center space-x-2 mb-1">
                 <Image
-                  src={msg.from === 'them' ? conversation.avatar : 'https://i.pravatar.cc/150?img=12'}
+                  src={
+                    msg.from === 'them'
+                      ? conversation.avatar
+                      : 'https://i.pravatar.cc/150?img=12'
+                  }
                   alt={msg.from === 'them' ? conversation.name : 'Me'}
                   width={24}
                   height={24}
@@ -135,12 +141,12 @@ const SubAgentChatWindow = ({ conversation }) => {
         open={isInviteModalOpen}
         onCancel={() => setIsInviteModalOpen(false)}
         onConfirm={({ email, role }) => {
-          console.log('Inviting:', email, 'as', role);
-          setIsInviteModalOpen(false);
+          console.log('Inviting:', email, 'as', role)
+          setIsInviteModalOpen(false)
         }}
       />
     </div>
-  );
-};
+  )
+}
 
-export default SubAgentChatWindow;
+export default SubAgentChatWindow

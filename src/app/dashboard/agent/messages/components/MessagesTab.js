@@ -4,7 +4,7 @@ import ChatList from './ChatList'
 import ChatWindow from './ChatWindow'
 import SubAgentChatList from './SubAgentChatList'
 import SubAgentChatWindow from './SubAgentChatWindow'
-import { ConfigProvider } from 'antd';
+import { ConfigProvider } from 'antd'
 import GroupDetailsSidebar from './GroupDetailsSidebar'
 
 const conversationsData = [
@@ -84,17 +84,16 @@ const conversationsData = [
       },
     ],
   },
-];
-
+]
 
 const MessagesTabs = () => {
   const [activeTab, setActiveTab] = useState('my')
-  const [selectedConversation, setSelectedConversation] = useState(null);
-  const [showSidebar, setShowSidebar] = useState(false);
+  const [selectedConversation, setSelectedConversation] = useState(null)
+  const [showSidebar, setShowSidebar] = useState(false)
 
   return (
-    <div className='relative'>
-         {showSidebar && (
+    <div className="relative">
+      {showSidebar && (
         <div className="overflow-y-scroll fixed right-0 top-0 h-full w-80 bg-cardbg shadow-lg border-l border-bordercolor z-50 p-4">
           <div className="flex justify-between items-center mb-4">
             <h2 className="text-lg font-semibold">Group Settings</h2>
@@ -106,16 +105,14 @@ const MessagesTabs = () => {
             </button>
           </div>
           {/* Group Settings Content */}
-          <div className=''>
-            <GroupDetailsSidebar/>
+          <div className="">
+            <GroupDetailsSidebar />
           </div>
         </div>
-      )}
-      {' '}
+      )}{' '}
       <div className="w-full  rounded-2xl  pt-8">
         {/* Tabs Header */}
         <div className="flex border-b border-bordercolor ">
-
           <button
             onClick={() => setActiveTab('my')}
             className={`px-4 py-2 text-sm font-medium rounded-t-lg ${
@@ -140,35 +137,49 @@ const MessagesTabs = () => {
 
         {/* Tabs Content */}
         <div className="">
-               <ConfigProvider
-      theme={{
-        token: {
-          colorPrimary: '#EEB887', // custom theme color
-          borderRadius: 12,
-        },
-        components: {
-          Steps: {
-            colorPrimary: '#EEB887',
-            colorText: '#000',
-            colorTextActive: '#EEB887',
-          },
-        },
-      }}
-    >
-          {activeTab === 'my' && (
-            <div className="flex h-screen">
-              <ChatList conversations={conversationsData} onSelect={setSelectedConversation}  selectedConversation={selectedConversation}/>
-              <ChatWindow conversation={selectedConversation} onOpenGroupSettings={() => setShowSidebar(true)} />
-            </div>
-          )}
+          <ConfigProvider
+            theme={{
+              token: {
+                colorPrimary: '#EEB887', // custom theme color
+                borderRadius: 12,
+              },
+              components: {
+                Steps: {
+                  colorPrimary: '#EEB887',
+                  colorText: '#000',
+                  colorTextActive: '#EEB887',
+                },
+              },
+            }}
+          >
+            {activeTab === 'my' && (
+              <div className="flex h-screen">
+                <ChatList
+                  conversations={conversationsData}
+                  onSelect={setSelectedConversation}
+                  selectedConversation={selectedConversation}
+                />
+                <ChatWindow
+                  conversation={selectedConversation}
+                  onOpenGroupSettings={() => setShowSidebar(true)}
+                />
+              </div>
+            )}
 
-          {activeTab === 'sub' && (
-            <div className="flex h-screen">
-            <SubAgentChatList conversations={conversationsData} onSelect={setSelectedConversation}  selectedConversation={selectedConversation}/>
+            {activeTab === 'sub' && (
+              <div className="flex h-screen">
+                <SubAgentChatList
+                  conversations={conversationsData}
+                  onSelect={setSelectedConversation}
+                  selectedConversation={selectedConversation}
+                />
 
-            <SubAgentChatWindow conversation={selectedConversation} onOpenGroupSettings={() => setShowSidebar(true)}/>
-            </div>
-          )}
+                <SubAgentChatWindow
+                  conversation={selectedConversation}
+                  onOpenGroupSettings={() => setShowSidebar(true)}
+                />
+              </div>
+            )}
           </ConfigProvider>
         </div>
       </div>
