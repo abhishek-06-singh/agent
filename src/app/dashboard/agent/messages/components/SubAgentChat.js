@@ -7,7 +7,7 @@ import { PaperClipOutlined } from '@ant-design/icons'
 import { Send } from 'lucide-react'
 import InviteModal from './InviteModal'
 
-const SubAgentChatWindow = ({ conversation }) => {
+const SubAgentChat = ({ conversation }) => {
   const [isInviteModalOpen, setIsInviteModalOpen] = useState(false)
 
   if (!conversation) {
@@ -149,4 +149,4 @@ const SubAgentChatWindow = ({ conversation }) => {
   )
 }
 
-export default SubAgentChatWindow
+export default SubAgentChat

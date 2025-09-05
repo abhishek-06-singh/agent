@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import ChatList from './ChatList'
 import ChatWindow from './ChatWindow'
 import SubAgentChatList from './SubAgentChatList'
-import SubAgentChatWindow from './SubAgentChatWindow'
+import SubAgentChat from './SubAgentChat'
 import { ConfigProvider } from 'antd'
 import GroupDetailsSidebar from './GroupDetailsSidebar'
 
@@ -174,7 +174,7 @@ const MessagesTabs = () => {
                   selectedConversation={selectedConversation}
                 />
 
-                <SubAgentChatWindow
+                <SubAgentChat
                   conversation={selectedConversation}
                   onOpenGroupSettings={() => setShowSidebar(true)}
                 />
