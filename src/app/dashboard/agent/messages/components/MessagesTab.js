@@ -19,7 +19,7 @@ const conversationsData = [
     messages: [
       {
         from: 'them',
-        text: 'Hi! I’m interested in the property at 456 Maple Ave. Can we schedule a viewing?',
+        text: 'Hi I’m interested in the property at 456 Maple Ave. Can we schedule a viewing?',
         time: '9:15 AM',
       },
       {
